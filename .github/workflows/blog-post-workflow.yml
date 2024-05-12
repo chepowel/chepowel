@@ -18,4 +18,4 @@ jobs:
         with:
           comment_tag_name: 'RefactoringLifesCode'
           feed_list: 'https://rss.beehiiv.com/feeds/Gx12jo9BKP.xml'
-          template: '<tr><td>{title}</td><td><a href="{link}">{pubDate}</a></td></tr>'
+          template: '<tr><td>$title</td><td><a href="$link">$pubDate</a></td></tr>'
