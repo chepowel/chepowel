@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **chepowel/chepowel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,8 +27,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ML and Micro Frontend Architecture  
   
 
-- ❓ Ask me about anything related to React, React-Native, Javascript/Typescript, Python and related technologies  
-  
+- ❓ Ask me about anything related to React, React-Native, Javascript/Typescript, Python and related technologies
+
+- 📫 How to reach me: chepowel@gmail.com or [My Web Site](https://www.christopherepowell.com)
 
 - ⚡ Fun fact: I mouse with my left hand  
   
@@ -198,5 +197,3 @@ If things goes well, this section should automatically be replaced by a list of 
             </a></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
