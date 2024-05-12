@@ -158,11 +158,7 @@ Here are some ideas to get you started:
 
 ## Recent Blog Posts
 
-<!-- RefactoringLifesCode:START -->
-
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file.
-
-<!-- RefactoringLifesCode:END -->
+<!-- RefactoringLifesCode:START --><tr><td>{title}</td><td><a href="{link}">{pubDate}</a></td></tr><tr><td>{title}</td><td><a href="{link}">{pubDate}</a></td></tr><tr><td>{title}</td><td><a href="{link}">{pubDate}</a></td></tr><tr><td>{title}</td><td><a href="{link}">{pubDate}</a></td></tr><tr><td>{title}</td><td><a href="{link}">{pubDate}</a></td></tr><!-- RefactoringLifesCode:END -->
 
 <br/>
 
