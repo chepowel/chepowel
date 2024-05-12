@@ -158,7 +158,7 @@ Here are some ideas to get you started:
 
 ## Recent Blog Posts
 
-<!-- RefactoringLifesCode:START --><tr><td>{title}</td><td><a href="{link}">{pubDate}</a></td></tr><tr><td>{title}</td><td><a href="{link}">{pubDate}</a></td></tr><tr><td>{title}</td><td><a href="{link}">{pubDate}</a></td></tr><tr><td>{title}</td><td><a href="{link}">{pubDate}</a></td></tr><tr><td>{title}</td><td><a href="{link}">{pubDate}</a></td></tr><!-- RefactoringLifesCode:END -->
+<!-- RefactoringLifesCode:START --><tr><td>Load Balancing Life: Tech Strategies for Managing Stress</td><td><a href="$link">$pubDate</a></td></tr><tr><td>Modularizing Your Habits: Building a Scalable Life</td><td><a href="$link">$pubDate</a></td></tr><tr><td>Enhancing Decision-Making with Code Review Techniques</td><td><a href="$link">$pubDate</a></td></tr><tr><td>Reboot Your Brain: Embracing System Downtime for Sustained Productivity and Wellbeing</td><td><a href="$link">$pubDate</a></td></tr><tr><td>Balancing Front-end Brilliance with Back-end Resilience: Lessons in Self-Improvement</td><td><a href="$link">$pubDate</a></td></tr><!-- RefactoringLifesCode:END -->
 
 <br/>
 
