@@ -177,21 +177,23 @@ Here are some ideas to get you started:
 
 <br/>
 
+### ✨&nbsp; About Me
+
+I am a Full Stack Developer with 18+ years of experience in developing enterprise applications and software for startups.
+
 ## Github Stats
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=chepowel&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 <br/>
 
-## Refactoring Life's Code
-
-## Recent Blog Posts
+📕 &nbsp;**Latest Blog Posts**
 
 <!-- RefactoringLifesCode:START --><li><b><a href="https://www.refactoringlifescode.com/p/load-balancing-life-tech-strategies-for-managing-stress">Load Balancing Life: Tech Strategies for Managing Stress</a></b></li><li><b><a href="https://www.refactoringlifescode.com/p/modularizing-your-habits-building-a-scalable-life">Modularizing Your Habits: Building a Scalable Life</a></b></li><li><b><a href="https://www.refactoringlifescode.com/p/enhancing-decision-making-with-code-review-techniques">Enhancing Decision-Making with Code Review Techniques</a></b></li><li><b><a href="https://www.refactoringlifescode.com/p/reboot-your-brain-embracing-system-downtime-for-sustained-productivity-and-wellbeing">Reboot Your Brain: Embracing System Downtime for Sustained Productivity and Wellbeing</a></b></li><li><b><a href="https://www.refactoringlifescode.com/p/balancing-front-end-brilliance-with-back-end-resilience">Balancing Front-end Brilliance with Back-end Resilience: Lessons in Self-Improvement</a></b></li><!-- RefactoringLifesCode:END -->
 
 <br/>
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>
+<!--<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>-->
 
 <br/>
 
