@@ -28,6 +28,10 @@ Here are some ideas to get you started:
 
 <br/>
 
+### ✨&nbsp; About Me
+
+I am a Full Stack Developer with 18+ years of experience in developing enterprise applications and software for startups.
+
 <details>
             <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
             <br />
@@ -104,17 +108,17 @@ Here are some ideas to get you started:
 <a href="https://github.com/chepowel" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/chepowel" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+<!-- <a href="https://twitter.com/chepowel" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" /> -->
 </a>
 <a href="https://linkedin.com/in/christopherepowell" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/christopherepowell" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<!-- <a href="https://www.facebook.com/christopherepowell" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" /> -->
 </a>
-<a href="https://instagram.com/christopherepowell" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<!-- <a href="https://instagram.com/christopherepowell" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /> -->
 </a>
 <a href="https://stackoverflow.com/users/chepowel" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
@@ -129,9 +133,11 @@ Here are some ideas to get you started:
 
 <br/>
 
-### ✨&nbsp; About Me
+📕 &nbsp;**Latest Blog Posts**
 
-I am a Full Stack Developer with 18+ years of experience in developing enterprise applications and software for startups.
+<!-- RefactoringLifesCode:START --><li><b><a href="https://www.refactoringlifescode.com/p/load-balancing-life-tech-strategies-for-managing-stress">Load Balancing Life: Tech Strategies for Managing Stress</a></b></li><li><b><a href="https://www.refactoringlifescode.com/p/modularizing-your-habits-building-a-scalable-life">Modularizing Your Habits: Building a Scalable Life</a></b></li><li><b><a href="https://www.refactoringlifescode.com/p/enhancing-decision-making-with-code-review-techniques">Enhancing Decision-Making with Code Review Techniques</a></b></li><li><b><a href="https://www.refactoringlifescode.com/p/reboot-your-brain-embracing-system-downtime-for-sustained-productivity-and-wellbeing">Reboot Your Brain: Embracing System Downtime for Sustained Productivity and Wellbeing</a></b></li><li><b><a href="https://www.refactoringlifescode.com/p/balancing-front-end-brilliance-with-back-end-resilience">Balancing Front-end Brilliance with Back-end Resilience: Lessons in Self-Improvement</a></b></li><!-- RefactoringLifesCode:END -->
+
+<br/>
 
 ## Github Stats
 
@@ -139,33 +145,27 @@ I am a Full Stack Developer with 18+ years of experience in developing enterpris
 
 <br/>
 
-📕 &nbsp;**Latest Blog Posts**
-
-<!-- RefactoringLifesCode:START --><li><b><a href="https://www.refactoringlifescode.com/p/load-balancing-life-tech-strategies-for-managing-stress">Load Balancing Life: Tech Strategies for Managing Stress</a></b></li><li><b><a href="https://www.refactoringlifescode.com/p/modularizing-your-habits-building-a-scalable-life">Modularizing Your Habits: Building a Scalable Life</a></b></li><li><b><a href="https://www.refactoringlifescode.com/p/enhancing-decision-making-with-code-review-techniques">Enhancing Decision-Making with Code Review Techniques</a></b></li><li><b><a href="https://www.refactoringlifescode.com/p/reboot-your-brain-embracing-system-downtime-for-sustained-productivity-and-wellbeing">Reboot Your Brain: Embracing System Downtime for Sustained Productivity and Wellbeing</a></b></li><li><b><a href="https://www.refactoringlifescode.com/p/balancing-front-end-brilliance-with-back-end-resilience">Balancing Front-end Brilliance with Back-end Resilience: Lessons in Self-Improvement</a></b></li><!-- RefactoringLifesCode:END -->
-
-<br/>
-
 <!--<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>-->
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://komarev.com/ghpvc/?username=chepowel&&style=flat-square" align="center" />
-</div>
+</div> -->
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
             <a href="https://paypal.me/che" target="_blank" style="display: inline-block;">
                 <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
+                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal"
                     align="center"
                 />
             </a>
             <a href="https://www.buymeacoffee.com/chepowel" target="_blank" style="display: inline-block;">
                 <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee"
                     align="center"
                 />
-            </a></div>
+            </a></div> -->
 <br />
