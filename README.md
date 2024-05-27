@@ -30,7 +30,11 @@ Here are some ideas to get you started:
 
 ### ✨&nbsp; About Me
 
-I am a Full Stack Developer with 18+ years of experience in developing enterprise applications and software for startups.
+Dynamic Software Engineering Leader with 18+ years of experience building scalable and innovative software solutions across diverse industries. Proven track record of leading cross-functional teams to deliver high-impact projects from concept to launch. Known for my ability to step in and solve complex challenges, especially with new technologies and limited documentation.
+
+Passionate about leveraging technology to revolutionize how we achieve results. I thrive on empowering individuals and teams through teaching, training, and mentorship, helping them overcome obstacles and reach their full potential. My focus extends beyond technical skills, encompassing the importance of self-care, self-improvement, and lifestyle design to cultivate joy and productivity.
+
+I'm committed to using my expertise to drive innovation and deliver exceptional results, both in my professional endeavors and in my contributions to the broader tech community.
 
 <details>
             <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
