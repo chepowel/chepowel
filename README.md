@@ -143,22 +143,6 @@ I'm committed to using my expertise to drive innovation and deliver exceptional 
 
 <br/>
 
-## Github Stats
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=chepowel&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
-<br/>
-
-<!--<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>-->
-
-<br/>
-
-<!-- <div align="center">
-<img src="https://komarev.com/ghpvc/?username=chepowel&&style=flat-square" align="center" />
-</div> -->
-
-<br/>
-
 <!-- <div align="center">
             <a href="https://paypal.me/che" target="_blank" style="display: inline-block;">
                 <img
